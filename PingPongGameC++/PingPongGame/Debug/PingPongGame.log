@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(107): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(108): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(169): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(170): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(178): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(207): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\ahmed\onedrive\documents\visual studio 2015\projects\pingponggame\pingponggame\source.cpp(210): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  PingPongGame.vcxproj -> C:\Users\ahmed\OneDrive\Documents\Visual Studio 2015\Projects\PingPongGame\Debug\PingPongGame.exe
+  PingPongGame.vcxproj -> C:\Users\ahmed\OneDrive\Documents\Visual Studio 2015\Projects\PingPongGame\Debug\PingPongGame.pdb (Partial PDB)
